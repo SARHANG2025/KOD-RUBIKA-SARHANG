@@ -234,5 +234,5 @@ if name == "40":
   print(Fore.LIGHTRED_EX+"www.Netreport.ir/(#Report=send_Porn-text-img-video-file_&_obscenity-text_to_islam_&_users-rubika)fyl-ter.Af/-af.af.af.af.af.af.af.af.af.af.af.af.af.af.af.af.af.af.af.af.af=/print('Group_anti=@SupportBot')fyll-ter.Am/am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am.am=/print('Group_anti=http://rubika.ir/rules')ip,5.106.8.151,Fm.f.a.k.p.Yi.k.w.r.f.a.c.mn.h.g.k.p.o.ae,5.86ZM39.965,4.523C39.764,4.322</@SupportBot[Report]Check.ir\>")
   print("")
   
-print("Coded by > Tack - Lorix")
+print("Coded by > 𝐒𝐀𝐑𝐇𝐀𝐍𝐆 - 𝐇𝐑𝐗")
 print("")
